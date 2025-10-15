@@ -55,6 +55,11 @@ The goal was to visualize regional patterns and observe where both networks coex
 3. Right‑click the HTML file → Open with Live Server.
 4. Wait for the initial load (it can take time due to the number of points).
 5. Toggle layers using the buttons in the top panel.
+
+### B) Github
+1. You can access to the following URL to view the heatmap through a generated webpage in my Github repository dedicated to this specific assignment.
+
+<https://rfreyrep.github.io/Freyre_Raul_Assignment6/Freyre_Raul_Assignment6_Final_2>
 ---
 
 ## Notes
